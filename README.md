@@ -2,7 +2,7 @@
 
 Un pipeline avanzado de NLP para clasificar el tono (sentimiento) y el tema de grandes volúmenes de texto, optimizado para el contexto de noticias en español.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vFgoU5bkl3OLJ7PIjQZlSEznJdfDANnS?usp=sharing#scrollTo=f9f36a86)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vFgoU5bkl3OLJ7PIjQZlSEznJdfDANnS?usp=sharing#scrollTo=qGAsmr_TDSrX)
 
 Este script toma un archivo Excel, procesa una columna de texto (ej. resumen), y devuelve un reporte detallado con:
 
