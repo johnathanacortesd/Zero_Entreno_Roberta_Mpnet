@@ -313,3 +313,9 @@ MIT License - Libre uso comercial y académico
 ---
 
 **⭐ Si te resulta útil, considera dar una estrella al repo**
+
+---
+<div align="center">
+    <p>Realizado por Johnathan Cortés</p>
+</div>
+
