@@ -1,11 +1,12 @@
 # 📰 Analizador de Noticias - Tono y Tema
 
-Sistema de análisis automático de noticias para medir **tono de marca** y **clasificación temática** usando modelos open source con licencia comercial.
+Sistema de análisis de noticias para clasificar el **tono de marca** y **clasificación de tema** usando modelos open source con licencia comercial.
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vFgoU5bkl3OLJ7PIjQZlSEznJdfDANnS?usp=sharing#scrollTo=qGAsmr_TDSrX)
 
 ## 🎯 Características
 
+✅ **Texto concatenado** - Se analiza la columna resumen (Unión de las columnas Título y Resumen)  
 ✅ **Clustering inteligente** - Agrupa noticias similares (mismo tono/tema garantizado)  
 ✅ **Análisis de tono** - Positivo/Neutro/Negativo contextual al cliente  
 ✅ **10 categorías temáticas** - Educación, Infraestructura, Seguridad, etc.  
