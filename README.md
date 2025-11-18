@@ -26,7 +26,7 @@ Sistema de análisis de noticias para clasificar el **tono de marca** y **clasif
 
 ### **v2.0 - Reglas Lingüísticas** (Recomendado para comenzar)
 ```python
-# analizador_v30_reglas.py
+# analizador_v2.0_reglas.py
 ```
 
 **Características:**
@@ -45,7 +45,7 @@ Sistema de análisis de noticias para clasificar el **tono de marca** y **clasif
 
 ### **v2.1 - RoBERTa + Reglas** (Máxima precisión)
 ```python
-# analizador_v31_roberta.py
+# analizador_v2.1_roberta.py
 ```
 
 **Características:**
@@ -258,7 +258,7 @@ grupo_id: 158
 ## 🐛 Troubleshooting
 
 ### Error: "name 'confiances' is not defined"
-**Solución:** Usar versión v30 o v31 (ya corregido)
+**Solución:** Usar versión v2.0 o v2.1 (ya corregido)
 
 ### GPU no detectada
 ```python
@@ -272,7 +272,7 @@ print(torch.cuda.is_available())  # Debe ser True
 
 ### Memoria insuficiente
 **Solución:** 
-- Usa v30 (menos memoria)
+- Usa v2.0 (menos memoria)
 - Reduce tamaño de batch
 - Procesa en lotes más pequeños
 
