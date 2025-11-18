@@ -18,7 +18,7 @@ Sistema de análisis automático de noticias para medir **tono de marca** y **cl
 
 ### **v30 - Reglas Lingüísticas** (Recomendado para comenzar)
 ```python
-# analizador_v30_reglas.py
+# analizador_v2.0_reglas.py
 ```
 
 **Características:**
@@ -37,7 +37,7 @@ Sistema de análisis automático de noticias para medir **tono de marca** y **cl
 
 ### **v31 - RoBERTa + Reglas** (Máxima precisión)
 ```python
-# analizador_v31_roberta.py
+# analizador_v2.1_roberta.py
 ```
 
 **Características:**
