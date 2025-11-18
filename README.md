@@ -4,6 +4,11 @@ Sistema de análisis de noticias para clasificar el **tono de marca** y **clasif
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vFgoU5bkl3OLJ7PIjQZlSEznJdfDANnS?usp=sharing#scrollTo=qGAsmr_TDSrX)
 
+<img width="688" height="771" alt="image" src="https://github.com/user-attachments/assets/36e4e7ae-db7a-491e-aacf-ab5b8cdddb55" />
+
+<img width="805" height="283" alt="image" src="https://github.com/user-attachments/assets/34a51a10-b66f-43c4-92be-00959e3ef087" />
+
+
 ## 🎯 Características
 
 ✅ **Texto concatenado** - Se analiza la columna resumen (Unión de las columnas Título y Resumen)  
