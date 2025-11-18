@@ -2,7 +2,7 @@
 
 Sistema de análisis automático de noticias para medir **tono de marca** y **clasificación temática** usando modelos open source con licencia comercial.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vFgoU5bkl3OLJ7PIjQZlSEznJdfDANnS?usp=sharing#scrollTo=xnY4aGFm1x_V)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vFgoU5bkl3OLJ7PIjQZlSEznJdfDANnS?usp=sharing#scrollTo=qGAsmr_TDSrX)
 
 ## 🎯 Características
 
