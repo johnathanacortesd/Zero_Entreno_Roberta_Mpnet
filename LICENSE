@@ -25,8 +25,8 @@ SOFTWARE.
 
 ### Para notebooks:
 ```
-notebooks/analizador_v30_reglas.ipynb
-notebooks/analizador_v31_roberta_hybrid.ipynb
+notebooks/analizador_v2.0_reglas.ipynb
+notebooks/analizador_v2.1_roberta_hybrid.ipynb
 ```
 
 ### Para scripts Python modulares:
