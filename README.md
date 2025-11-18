@@ -6,6 +6,7 @@ Sistema de análisis de noticias para clasificar el **tono de marca** y **clasif
 
 <img width="688" height="771" alt="image" src="https://github.com/user-attachments/assets/36e4e7ae-db7a-491e-aacf-ab5b8cdddb55" />
 
+
 <img width="805" height="283" alt="image" src="https://github.com/user-attachments/assets/34a51a10-b66f-43c4-92be-00959e3ef087" />
 
 
